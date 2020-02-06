@@ -97,6 +97,8 @@ However, there is one more step you need to perform. Firstly you need to ensure 
 
 If for any reason you don't see the learn-env option in the drop-down list of kernels, exit the notebook in the browser, close down the notebook server, and in the terminal type `python -m ipykernel install --user --name=learn-env` - that will add the learn-env to your list of kernels and when you restart the Jupyter Notebook server and then open a notebook, you'll be able to select the learn-env option from the list of kernels.
 
+All steps have been completed and the virtual environment has been installed. Great guide.
+
 ## Summary
 
 Congratulations! If you've gotten this far and everything has worked, you have successfully set up a virtual environment which will serve as a great baseline setup for working as a professional data scientist!
